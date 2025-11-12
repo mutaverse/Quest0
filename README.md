@@ -30,12 +30,15 @@ backed by a multi-agent architecture designed for scalable and precise research 
   3. **Research Gap Identifier:** Finds gaps in existing research.
   4. **Research Topic Generator:** Suggests research topics based on analysis.
 
-  Here’s the flow of the Quest0 agents:
-  ![Quest0 Agents Flow](assets/quest0-image.png)
-
 - **Flexible AI Integration:** Supports OpenAI, Mistral, Anthropic, Groq, and other LLM providers.
 - **Streamlit Chat UI:** Sleek frontend for interactive research exploration.
 - **Extensible and Scalable:** Easily add new agents or LLM providers as your project grows.
+
+Here’s the flow of the Quest0 agents:
+
+<p align="center">
+  <img src="assets/agents_flow.png" alt="Agents Flow" width="500">
+</p>
 
 # Running the App
 
