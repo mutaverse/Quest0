@@ -36,7 +36,7 @@ backed by a multi-agent architecture designed for scalable and precise research 
 
 Here’s the flow of the Quest0 agents:
 
-<p align="center">
+<p align="left">
   <img src="assets/quest0-image.png" alt="Agents Flow" width="500">
 </p>
 
